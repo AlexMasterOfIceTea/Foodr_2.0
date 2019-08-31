@@ -59,11 +59,6 @@ public class Repository {
 
     public static class QueryBuilder{
 
-        /*
-        private final String APP_ID = "Kz5CsuxEX3s7xbc6WW7k";
-        private final String APP_CODE = "CNDA4BWaUhs8ItuEhxnLdA";
-        private final String BASE_STRING = "https://places.cit.api.here.com/places/v1/discover/around?";
-        */
         private final String API_KEY = "";
         private final String BASE_STRING = "https://maps.googleapis.com/maps/api/place/textsearch/json?";
         private final String BASE_PHOTO = "https://maps.googleapis.com/maps/api/place/photo?";
