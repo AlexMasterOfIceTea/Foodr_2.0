@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Foodr</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explore_menu">Explore</string>
+    <string name="favourites_menu">Favourites</string>
+    <string name="radar_menu">Radar</string>
+
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="search_bar">search here</string>
+</resources>
