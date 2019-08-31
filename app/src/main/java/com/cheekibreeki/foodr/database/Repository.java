@@ -64,7 +64,7 @@ public class Repository {
         private final String APP_CODE = "CNDA4BWaUhs8ItuEhxnLdA";
         private final String BASE_STRING = "https://places.cit.api.here.com/places/v1/discover/around?";
         */
-        private final String API_KEY = "AIzaSyCuoz0pNMmSH0n1MuTid18Kl7DfCyiYCQQ";
+        private final String API_KEY = "";
         private final String BASE_STRING = "https://maps.googleapis.com/maps/api/place/textsearch/json?";
         private final String BASE_PHOTO = "https://maps.googleapis.com/maps/api/place/photo?";
         public final static int TEXTEARCH = 0;
